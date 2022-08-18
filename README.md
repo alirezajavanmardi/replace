@@ -1,2 +1,2 @@
 # replace
-a simple script to remove a char with space
+a simple script to replace a char with space
